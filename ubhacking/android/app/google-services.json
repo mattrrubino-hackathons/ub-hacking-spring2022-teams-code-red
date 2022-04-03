@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184555553124",
+    "project_id": "ubhacking-36a7b",
+    "storage_bucket": "ubhacking-36a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184555553124:android:126a1ddfab7d9c272c7a71",
+        "android_client_info": {
+          "package_name": "me.codered.ubhacking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184555553124-ia3g46kof03k3rv28st23hdpha1eo35v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUit3qwTPaywvjnbyhsgyBKHPMi3Za4Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184555553124-ia3g46kof03k3rv28st23hdpha1eo35v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
